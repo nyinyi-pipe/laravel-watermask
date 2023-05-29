@@ -8,7 +8,6 @@ composer require intervention/image
 ;extension=gd
 
 
-
 ### In composer.json, add Intervention
 "autoload": {
     "classmap": [
@@ -20,7 +19,7 @@ composer require intervention/image
     }
 },
 
-
+### Dump-autoload
 composer dump-autoload
 
 
